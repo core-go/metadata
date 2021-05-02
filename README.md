@@ -7,15 +7,13 @@ Model for metadata
 - TypeAlias
 
 ## Installation
-
-Please make sure to initialize a Go module before installing common-go/metadata:
+Please make sure to initialize a Go module before installing core-go/metadata:
 
 ```shell
-go get -u github.com/common-go/metadata
+go get -u github.com/core-go/metadata
 ```
 
 Import:
-
 ```go
-import "github.com/common-go/metadata"
+import "github.com/core-go/metadata"
 ```
